@@ -1,121 +1,129 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ======================= HERO ======================= -->
 <h1 align="center">Hi 👋, I'm Mohammad Fahim</h1>
-<h3 align="center">B.Tech CSE (AI) Student | Aspiring Data Scientist | Problem Solver</h3>
+<h3 align="center">AI Student • Future Data Scientist • Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Machine+Learning+Learner;Deep+Learning+Explorer;Future+AI+Engineer+🚀&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Explorer;Deep+Learning+Builder;AWS+Certified;Docker+Practitioner;Always+Learning+🚀&center=true&width=520&height=45">
 </p>
 
 <p align="center">
-  📍 Ballia, Uttar Pradesh, India
+  <a href="https://github.com/Mohammad-Fahim05">
+    <img src="https://komarev.com/ghpvc/?username=Mohammad-Fahim05&label=Profile%20views&color=blue&style=flat" />
+  </a>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="260" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
 ## 🚀 About Me
-🎓 I am a Computer Science student specializing in **Artificial Intelligence**.  
-💡 Passionate about solving problems and building practical technology.  
-📚 Focused on strengthening fundamentals and creating real-world AI systems.
+🎓 B.Tech student in **Computer Science & Engineering (AI)**  
+💡 Interested in **Data Science, Machine Learning, Cloud & DevOps**  
+⚡ I enjoy converting ideas into real, working systems.
 
-I strongly believe in:
-- Discipline  
-- Consistency  
-- Daily improvement  
-
-Currently preparing for **Data Science, Machine Learning, and Software roles**.
-
----
-
-## 🔭 Current Focus
-- Mastering **Data Structures & Algorithms**
-- Building **Machine Learning & Deep Learning projects**
-- Understanding model optimization
-- Becoming placement ready
+I focus on:
+- Strong fundamentals  
+- Practical implementations  
+- Industry-ready skills  
+- Continuous growth  
 
 ---
 
-## 🌱 Currently Learning
-- Advanced DSA  
-- Neural Networks  
-- Computer Vision  
-- Generative AI  
-- Model deployment
+## 🏆 Certifications
+🥇 **AWS Certified Cloud Practitioner (CLF-C02)**
+
+---
+
+## 💼 Experience
+🐳 Hands-on experience working with **Docker** for containerization and environment setup.
+
+---
+
+## 🔭 What I'm Doing Right Now
+- Practicing **DSA for placements**
+- Building **Deep Learning projects**
+- Learning **model deployment**
+- Exploring **scalable cloud systems**
+
+---
+
+## 🌱 Currently Exploring
+`Advanced Algorithms` • `Neural Networks` • `Computer Vision` • `Generative AI`
 
 ---
 
 ## 💬 Ask Me About
-`C Programming` `Python` `DSA` `ML Basics` `Deep Learning`
+`C` `Python` `Machine Learning` `Cloud Basics` `Docker`
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Toolbox
 
 ### 👨‍💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
-### 🤖 Data & AI
+### 🤖 AI / Data
 <p>
-  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
 </p>
 
-### ⚙️ Tools
+### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,flask" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,flask,linux" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 📌 Highlight Projects
 
-### 🧠 Brain Tumor Detection
-Deep learning model that predicts tumor presence from MRI scans using a Flask-based interface.
+### 🧠 Brain Tumor Detection System
+MRI-based tumor prediction using deep learning with a Flask web interface.
 
 ### 🌫️ AQI Prediction
-Regression-based system for forecasting air quality using environmental data.
+Machine learning regression model to forecast air pollution levels.
 
-### 📚 Data Structures in C
-Hands-on implementation of linked lists, circular lists, stacks, queues, priority queues, and infix-postfix conversion.
+### 📚 Data Structures Implementation
+Complete implementations of stacks, queues, linked lists, circular lists & more in C.
 
 ---
 
 ## 📈 Strengths
-✔ Problem-solving  
-✔ Self-discipline  
-✔ Quick learner  
-✔ Positive team player  
-✔ Strong foundation builder  
+✔ Analytical thinker  
+✔ Self-disciplined  
+✔ Fast learner  
+✔ Consistent hard worker  
+✔ Team collaborator  
 
 ---
 
-## 🎯 Goals
-- Crack top tech placements  
-- Achieve DSA mastery  
-- Build impactful AI applications  
-- Contribute to open source  
-- Grow 1% better every day
+## 🎯 Mission
+To become a highly skilled engineer capable of building intelligent, scalable, and impactful systems.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Fahim05&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Fahim05&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Fahim05&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Fahim05&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 ## 🤝 Connect With Me
-💼 LinkedIn:  
+💼 LinkedIn  
 https://www.linkedin.com/in/mohammad-fahim-a84aa9328/
 
-🐙 GitHub:  
+🐙 GitHub  
 https://github.com/Mohammad-Fahim05
 
 ---
 
 ## ⚡ Fun Fact
-I work daily to turn my dreams into reality 🚀
+I upgrade my skills every day like software updates 🔥
